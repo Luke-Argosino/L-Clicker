@@ -1,6 +1,6 @@
 # L-Clicker
 
-![Alt text](/Screenshot.jpg?raw=true "Screenshot of Autoclicker")
+[![Screenshot.png](https://i.postimg.cc/QMVZTf6y/Screenshot.png)](https://postimg.cc/7CvRvnr3)
 
 This is a Java based autoclicker, built with JavaFX, Jnativehook, and Java Native Access.
 
